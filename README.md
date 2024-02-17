@@ -1,5 +1,7 @@
 # Impact-of-car-features 🚗📊
 
+<img src="https://png.pngtree.com/background/20230412/original/pngtree-city-%E2%80%8B%E2%80%8Bhighway-car-chase-advertising-background-picture-image_2401420.jpg" width=1100px>
+
 ## Description
 
 The automotive industry has been rapidly evolving over the past few decades, with a growing focus on fuel efficiency, environmental sustainability, and technological innovation. With increasing competition among manufacturers and a changing consumer landscape, it has become more important than ever to understand the factors that drive consumer demand for cars.
